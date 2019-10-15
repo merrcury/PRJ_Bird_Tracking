@@ -15,4 +15,12 @@ At time of developing this program following version of packages/libraries is us
 4. pandas       version 0.23.4
 5. matplotlib   version 3.0.2
 
+### Geographic scope
+
+The tracked birds breed at the southern North Sea coast in three colonies, located in the ports of Zeebrugge (Belgium), Ostend (Belgium) and Vlissingen-Oost (the Netherlands). During the breeding season, their foraging range includes the west of Belgium and the Netherlands, northern France, the North Sea, and the English Channel. The Lesser Black-backed Gulls migrate south in winter, mainly hibernating in the south of Spain, Portugal, and North Africa.
+
+### Taxonomic scope
+
+The dataset contains tracking data from 108 Lesser Black-Backed Gulls (Larus fuscus) and 37 Herring Gulls (Larus argentatus) breeding at the southern North Sea coast.
+
 This is required & correct information upto my knowledge.
